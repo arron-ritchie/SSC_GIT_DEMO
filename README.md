@@ -19,4 +19,20 @@ This can be done by using the command "git checkout -b *YOUR NAME HERE*-branch" 
 Step 5 - Replace My Favourite Food, Garlic Chili Chicken Curry, with your favourite and save the file. 
 <br>
 <br>
-Step 6 - Run The Following Command
+Step 6 - Run the following command in your IDE terminal window "git add ."
+<br> 
+This will add all of the changes you have made to the staging area.
+<br>
+<br>
+Step 7 - Run the following command in your IDE terminal window "git commit -m "*YOUR MESSAGE HERE*" e.g. (git commit -m "added arrons favourite food")
+<br> 
+This commit message is there to provide information about what changes have occured, in this case that my favourite food was updated. 
+<br>
+<br>
+Step 8 - Run the following command in your IDE terminal window "git push" and enter your password when prompted
+<br>
+<br>
+Step 9 - Go back to GitHub.com and in the SSC_GIT_DEMO repo go to the tab marked "Pull Requests" and click the green button marked "New Pull Request" 
+<br>
+<br>
+Step 10 - Near the top of the screen you will see two drop down menus one saying "base:main" ans the other saying "compare:main" click the dropdown marked "compare:main" and select the branch you created earlier. 
