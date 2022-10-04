@@ -45,17 +45,14 @@ This commit message is there to provide information about what changes have occu
 <br>
 
 **Step 10** - Near the top of the screen you will see two drop down menus one saying "base:main" ans the other saying "compare:main" click the dropdown marked "compare:main" and select the branch you created earlier. 
-
 <br> 
 You may see "Able to merge. These branches can be automatically merged." when you select your branch or you may see something different. Both are ok and you should proceed to Step 11. 
-
 <br>
 <br>
 
 **Step 11** - Give your Pull Request a title, preferably one which describes what changes you have made and leave a comment if you want to go into more details. This is useful when working with teams when you may have lots of information to convey to team members, the click the button marked "Create Pull Request"
 <br> 
 If you can't remember what changes you've made scroll to the bottom of the page to see the changed files. 
-
 <br> 
 <br>
 
