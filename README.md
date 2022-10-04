@@ -12,7 +12,9 @@ Clone This Repository Using SSH
 This can be done by clicking the Code button on the top right of this repo on GitHub, copying the url shown and then using the command 
 > git clone git@github.com:arron-ritchie/SSC_GIT_DEMO.git
 
-in the terminal window of your IDE.
+in the terminal window of your IDE. 
+
+**NOTE:** You will be asked to provide a password to access this repo if you set one up for your SSH KEY earlier.
 
 ## Step 4
 Create a new branch with your name as the name of the branch. 
@@ -23,7 +25,7 @@ This can be done by using the command
 in the terminal window of your IDE. (e.g git checkout -b arron-branch)
 
 ## Step 5
-Replace My Favourite Food, Garlic Chili Chicken Curry, with your favourite and save the file. 
+Open the file called my_favourite_food.txt and replace "My Favourite Food: Garlic Chili Chicken Curry" with "My Favourite Food: *Your Favourite Food* and save the file. 
 
 ## Step 6
 Run the following command in your IDE terminal window 
